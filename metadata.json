@@ -1,0 +1,6 @@
+{
+  "name": "廚房安全衛生守則學習與評量系統",
+  "description": "提供學生學號姓名登錄、章節學習字卡、模擬測驗、情境分析、學習成果PDF匯出，以及教師後台密碼管理與作答數據分析之數位學習平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
